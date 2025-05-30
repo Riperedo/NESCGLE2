@@ -1,0 +1,20 @@
+name = "NESCGLE2"
+uuid = "504d5f6e-0e4f-416d-a099-4bf4a53acca3"
+authors = ["jinzo <rperedo@if.uaslp.mx>"]
+version = "0.1.0"
+
+[deps]
+AnalyticalStructureFactors = "91294a36-8144-4a6b-bcde-0166c034afe3"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+ModeCouplingTheory = "6cad4188-63cb-4528-a10f-dbb409b456c6"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+AnalyticalStructureFactors = "0.0.1"
+DelimitedFiles = "1.9.1"
+LinearAlgebra = "1.11.0"
+ModeCouplingTheory = "0.8.6"
+StaticArrays = "1.9.13"
+Test = "1.11.0"
