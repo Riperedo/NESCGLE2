@@ -28,3 +28,6 @@ La carpeta `examples/` contiene scripts que demuestran el uso del paquete para:
 *   `01_find_critical_temperatures.jl`: Realizar un barrido de parámetros para encontrar temperaturas críticas de inestabilidad termodinámica.
 *   `02_arrest_diag.jl`: Construir un diagrama de fases cinético (fluido-vidrio) para una mezcla binaria.
 *   `03_equilibrium_dynamics.jl`: Calcular la dinámica de equilibrio para un punto de estado específico de una mezcla binaria.
+
+## Referencias
+*   Todo
